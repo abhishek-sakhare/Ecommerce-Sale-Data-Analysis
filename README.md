@@ -1,79 +1,66 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b3a455d-abaf-4d63-a99a-0c4232b4254f" /># Ecommerce-Sale-Data-Analysis
-# 📊 Madhav Ecommerce Sales Dashboard (Power BI)
+# Madhav Ecommerce Sales Dashboard - Power BI
 
-## 🚀 Project Overview
-This project showcases an interactive **Power BI dashboard** built to analyze and visualize ecommerce sales data.  
-The dashboard provides meaningful insights into sales performance, customer behavior, and profitability using dynamic and user-driven visuals.
-
-
-## 🎯 Key Insights
-- Total Sales Amount: **438K**
-- Total Quantity Sold: **5615**
-- Total Profit: **37K**
-- Average Order Value (AOV): **121K**
+## Overview
+The Madhav Ecommerce Sales Dashboard provides a comprehensive analysis of online sales performance, customer behavior, and profitability trends. The dashboard was developed using Power BI to transform raw sales data into meaningful insights through interactive visualizations and data modeling techniques. This project helps stakeholders understand sales distribution, customer preferences, and profit patterns for better decision-making.
 
 ---
 
-## 📌 Features
-- 📊 Interactive dashboard with filters and slicers (Quarter, Category)
-- 🔍 Drill-down analysis using parameters
-- 🔗 Data modeling with table relationships and joins
-- ⚡ Dynamic and user-driven visualizations
-- 📍 Region-wise and category-wise performance analysis
+## Dashboard Screenshots
 
----
-
-## 📊 Visualizations Used
-- Bar Chart (Sales by State, Sub-Category)
-- Donut Charts (Category-wise Quantity, Payment Mode)
-- Line/Bar Chart (Profit by Month)
-- Customer-wise Sales Analysis
-- Map Visualization
-- Slicers for filtering (Quarter, Category)
-
----
-
-## 🛠️ Tools & Technologies
-- Power BI
-- Data Modeling
-- DAX (Data Analysis Expressions)
-- Excel / CSV Dataset
-
----
+![Dashboard 1]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/844b8cd3-34cf-4046-acb8-c897e7e35b6d" />
 
 
 ---
 
-## 🧠 Key Learnings
-- Built an interactive dashboard to track and analyze online sales data  
-- Used complex parameters for drill-down and customization using filters and slicers  
-- Created relationships between multiple tables and performed data transformations  
-- Developed calculated fields and measures to derive meaningful insights  
-- Designed multiple customized visualizations (bar, pie, donut, scatter, line, area, map)
+## Data Sources
+- Data: Ecommerce sales dataset (CSV/Excel)
+- Tools: Power BI for data visualization and dashboard creation
 
 ---
 
-## 🔗 How to Use
-1. Download the `.pbix` file
-2. Open it using **Power BI Desktop**
-3. Explore the dashboard using filters and slicers
+## Key Metrics
+- Total Sales Amount: Overall revenue generated from sales  
+- Total Quantity Sold: Total number of items sold  
+- Total Profit: Net profit earned  
+- Average Order Value (AOV): Average value per transaction  
 
 ---
 
-## 🌟 Future Improvements
-- Add real-time data integration  
-- Enhance UI/UX design  
-- Include advanced DAX measures  
-- Deploy dashboard to Power BI Service for live access  
+## Segmented Data Analysis
+
+### Sales Analysis
+- By State: Sales distribution across different states (e.g., Maharashtra, Madhya Pradesh, Uttar Pradesh)
+- By Customer: Sales contribution by individual customers
+
+### Category Analysis
+- Quantity by Category: Distribution across categories such as Clothing, Electronics, and Furniture
+- Sub-Category Profit: Profit contribution from sub-categories like Printers, Bookcases, Saree, Accessories, and Tables
+
+### Time-Based Analysis
+- Profit by Month: Monthly profit trends highlighting seasonal variations
+
+### Payment Mode Analysis
+- Distribution of transactions across payment methods:
+  - COD (Cash on Delivery)
+  - UPI
+  - Debit Card
+  - Credit Card
+
+### Filters & Interactivity
+- Quarter-wise filtering (Q1, Q2, Q3, Q4)
+- Category-based filtering
+- Dynamic slicers for customized analysis
 
 ---
 
-## 👤 Author
-**Abhishek Sakhare**  
-📍 NIT Agartala  
-💻 Data Analysis Enthusiast  
+## Insights & Usage
+This dashboard provides valuable insights for business owners, analysts, and decision-makers. It helps in understanding customer purchasing behavior, identifying high-performing regions and categories, and tracking profit trends over time. These insights can be used to optimize sales strategies, improve product focus, and enhance overall business performance.
 
 ---
 
-## ⭐ If you like this project
-Give it a ⭐ on GitHub!
+## Future Enhancements
+- Integration of real-time sales data  
+- Advanced DAX measures for deeper analysis  
+- Deployment on Power BI Service for live dashboard access  
+- Improved UI/UX for better user experience  
