@@ -5,14 +5,6 @@
 This project showcases an interactive **Power BI dashboard** built to analyze and visualize ecommerce sales data.  
 The dashboard provides meaningful insights into sales performance, customer behavior, and profitability using dynamic and user-driven visuals.
 
----
-
-## 📸 Dashboard Preview
-![Dashboard](./dashboard.png)
-
----
-
-
 
 ## 🎯 Key Insights
 - Total Sales Amount: **438K**
@@ -79,7 +71,7 @@ The dashboard provides meaningful insights into sales performance, customer beha
 ## 👤 Author
 **Abhishek Sakhare**  
 📍 NIT Agartala  
-💻 Aspiring Full Stack & Data Enthusiast  
+💻 Data Analysis Enthusiast  
 
 ---
 
